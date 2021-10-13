@@ -1,0 +1,12 @@
+Gadget idea:
+Player has a projectile which he can throw and do one of the two:
+1. explode to do color-specific AOE damage or maybe stun
+2. teleport at any point to the location of the projectile, carrying on the velocity of the projectile
+
+2 allows for creative parkour design (I'll see how I can make the gameplay smooth)
+
+Either a swappable weapon or assigned buttons like Q and E (note: the player has to learn how to use these buttons
+for smooth gameplay)
+
+
+The level itself consists of clouds as platforms and maybe just floating rocks (like the map Ascent or practice range in Valorant).
